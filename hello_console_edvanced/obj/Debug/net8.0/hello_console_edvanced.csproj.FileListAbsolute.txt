@@ -1,0 +1,15 @@
+C:\Users\anton\Desktop\C#\lesson1\hello_console_edvanced\bin\Debug\net8.0\hello_console_edvanced.exe
+C:\Users\anton\Desktop\C#\lesson1\hello_console_edvanced\bin\Debug\net8.0\hello_console_edvanced.deps.json
+C:\Users\anton\Desktop\C#\lesson1\hello_console_edvanced\bin\Debug\net8.0\hello_console_edvanced.runtimeconfig.json
+C:\Users\anton\Desktop\C#\lesson1\hello_console_edvanced\bin\Debug\net8.0\hello_console_edvanced.dll
+C:\Users\anton\Desktop\C#\lesson1\hello_console_edvanced\bin\Debug\net8.0\hello_console_edvanced.pdb
+C:\Users\anton\Desktop\C#\lesson1\hello_console_edvanced\obj\Debug\net8.0\hello_console_edvanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Desktop\C#\lesson1\hello_console_edvanced\obj\Debug\net8.0\hello_console_edvanced.AssemblyInfoInputs.cache
+C:\Users\anton\Desktop\C#\lesson1\hello_console_edvanced\obj\Debug\net8.0\hello_console_edvanced.AssemblyInfo.cs
+C:\Users\anton\Desktop\C#\lesson1\hello_console_edvanced\obj\Debug\net8.0\hello_console_edvanced.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\C#\lesson1\hello_console_edvanced\obj\Debug\net8.0\hello_console_edvanced.sourcelink.json
+C:\Users\anton\Desktop\C#\lesson1\hello_console_edvanced\obj\Debug\net8.0\hello_console_edvanced.dll
+C:\Users\anton\Desktop\C#\lesson1\hello_console_edvanced\obj\Debug\net8.0\refint\hello_console_edvanced.dll
+C:\Users\anton\Desktop\C#\lesson1\hello_console_edvanced\obj\Debug\net8.0\hello_console_edvanced.pdb
+C:\Users\anton\Desktop\C#\lesson1\hello_console_edvanced\obj\Debug\net8.0\hello_console_edvanced.genruntimeconfig.cache
+C:\Users\anton\Desktop\C#\lesson1\hello_console_edvanced\obj\Debug\net8.0\ref\hello_console_edvanced.dll
