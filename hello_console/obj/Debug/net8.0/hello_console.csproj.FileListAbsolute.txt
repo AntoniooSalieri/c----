@@ -1,0 +1,14 @@
+C:\Users\anton\Desktop\C#\lesson1\hello_console\bin\Debug\net8.0\hello_console.exe
+C:\Users\anton\Desktop\C#\lesson1\hello_console\bin\Debug\net8.0\hello_console.deps.json
+C:\Users\anton\Desktop\C#\lesson1\hello_console\bin\Debug\net8.0\hello_console.runtimeconfig.json
+C:\Users\anton\Desktop\C#\lesson1\hello_console\bin\Debug\net8.0\hello_console.dll
+C:\Users\anton\Desktop\C#\lesson1\hello_console\bin\Debug\net8.0\hello_console.pdb
+C:\Users\anton\Desktop\C#\lesson1\hello_console\obj\Debug\net8.0\hello_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Desktop\C#\lesson1\hello_console\obj\Debug\net8.0\hello_console.AssemblyInfoInputs.cache
+C:\Users\anton\Desktop\C#\lesson1\hello_console\obj\Debug\net8.0\hello_console.AssemblyInfo.cs
+C:\Users\anton\Desktop\C#\lesson1\hello_console\obj\Debug\net8.0\hello_console.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\C#\lesson1\hello_console\obj\Debug\net8.0\hello_console.dll
+C:\Users\anton\Desktop\C#\lesson1\hello_console\obj\Debug\net8.0\refint\hello_console.dll
+C:\Users\anton\Desktop\C#\lesson1\hello_console\obj\Debug\net8.0\hello_console.pdb
+C:\Users\anton\Desktop\C#\lesson1\hello_console\obj\Debug\net8.0\hello_console.genruntimeconfig.cache
+C:\Users\anton\Desktop\C#\lesson1\hello_console\obj\Debug\net8.0\ref\hello_console.dll
