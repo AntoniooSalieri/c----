@@ -12,3 +12,4 @@ C:\Users\anton\Desktop\C#\lesson1\hello_console\obj\Debug\net8.0\refint\hello_co
 C:\Users\anton\Desktop\C#\lesson1\hello_console\obj\Debug\net8.0\hello_console.pdb
 C:\Users\anton\Desktop\C#\lesson1\hello_console\obj\Debug\net8.0\hello_console.genruntimeconfig.cache
 C:\Users\anton\Desktop\C#\lesson1\hello_console\obj\Debug\net8.0\ref\hello_console.dll
+C:\Users\anton\Desktop\C#\lesson1\hello_console\obj\Debug\net8.0\hello_console.sourcelink.json
